@@ -1,11 +1,11 @@
 Buenos dias estrellitas
 
 
-# Proyecto HTML - Demostración de conocimientos
+# Proyecto HTML - Como mantener a tu michi feliz
 
 ## Propósito
 
-El propósito de este proyecto es hacer una demostración de mis conocimientos en **HTML**.
+El propósito de este proyecto es hacer una introducción de como mantener a tu michi feliz.
 
 ## Instrucciones para ejecutar
 
